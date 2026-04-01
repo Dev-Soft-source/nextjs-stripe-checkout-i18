@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-nextjs-stripe-checkout",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.1",
+    "@stripe/stripe-js": "^1.15.1",
+    "axios": "^1.14.0",
+    "canvas-confetti": "^1.4.0",
+    "micro": "^9.3.4",
+    "next": "^16.2.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-hot-toast": "^2.0.0",
+    "stripe": "^8.160.0",
+    "swr": "^2.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
